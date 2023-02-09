@@ -5,7 +5,7 @@
 /* Header Sections */
 .header {
   height: 100vh;
-  background-image: url("/images/banner/banner2.png");
+  background-image: url("../images/banner/banner2.png");
   text-align: right;
 }
 .first-content {
@@ -76,7 +76,7 @@ main {
 /* Call now sections */
 
 .call-now {
-  background-image: url(/images/gradient2.png), url(/images/watch.png);
+  background-image: url(../images/gradient2.png), url(../images/watch.png);
   height: 30vh;
   background-repeat: no-repeat;
   border-radius: 10px;
